@@ -1,7 +1,7 @@
 # TASK 1
 
 ## Convert C code to MIPS assembly code
-```
+``` c
 int a=12;
 int b=23;
 
@@ -14,7 +14,7 @@ else
 # TASK 2
 
 ## Convert C code to MIPS assembly code
-```
+``` c
 int a=128;
 int b=0;
 
@@ -27,7 +27,7 @@ while (a!=1){
 # TASK 3
 
 ## Convert C code to MIPS assembly code
-```
+``` c
 int array [1000];
 int a;
 
